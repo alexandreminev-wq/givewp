@@ -7,7 +7,7 @@
 
         align-items: center;
         background-color: var(--bg-color);
-        border-radius: 0.75rem;
+        border-radius: var(--givewp-rounded-12);
         color: var(--color);
         column-gap: safe-rem(1);
         display: inline-flex;
