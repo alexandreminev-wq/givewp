@@ -1,2 +1,3 @@
 body.uc-themed {
+  --givewp-rounded-full: var(--uc-radius-pill);
 }
