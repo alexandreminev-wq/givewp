@@ -1,2 +1,7 @@
 body.uc-themed {
+  --givewp-spacing-1: var(--uc-space-1);
+  --givewp-spacing-2: var(--uc-space-2);
+  --givewp-spacing-3: var(--uc-space-3);
+  --givewp-spacing-4: var(--uc-space-4);
+  --givewp-spacing-6: var(--uc-space-6);
 }
